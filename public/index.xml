@@ -1,0 +1,30 @@
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rashida-Blog</title>
+    <link>https://rashidakaku.github.io/</link>
+    <description>Recent content on Rashida-Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>This is a customized copyright.</copyright>
+    <lastBuildDate>Mon, 08 May 2023 23:58:14 +0900</lastBuildDate>
+    
+        <atom:link href="https://rashidakaku.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>这是一篇测试文章</title>
+        <link>https://rashidakaku.github.io/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
+        <pubDate>Mon, 08 May 2023 23:58:14 +0900</pubDate>
+        
+        <guid>https://rashidakaku.github.io/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
+        <description>Rashida-Blog https://rashidakaku.github.io/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/ -&lt;p&gt;这是一篇测试文章&lt;/p&gt;
+&lt;p&gt;这是一篇测试文章&lt;/p&gt;
+&lt;p&gt;这是一篇测试文章&lt;/p&gt;
+- https://rashidakaku.github.io/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/ - This is a customized copyright.</description>
+        </item>
+    
+    
+  </channel>
+</rss> 
