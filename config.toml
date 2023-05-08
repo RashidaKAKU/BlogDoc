@@ -26,6 +26,10 @@ enableGiscus = true
 # Microsoft Clarity (https://clarity.microsoft.com/) is a free user behavior recording and analytics tool
 clarity = "h0tc0oxd6b"
 
+googleSearchCode = "https://cse.google.com/cse?cx=f23090994f28149c4"
+favicon = "https://rashida.cab:6901/uploads/2022/12/11/6395b6203c857.jpeg"
+enableReadingTime=true
+
 # Twitter Card and Open Graph settings
 enableOpenGraph = true
 enableTwitterCards = true
@@ -65,16 +69,16 @@ theme="github-light"
 [[menu.main]]
 url = "/categories"
 name = "分类"
-weight = 2
+weight = 1
 [[menu.main]]
 url = "/tags"
 name = "标签"
-weight = 3
+weight = 2
 [[menu.main]]
 url = "/posts"
 name = "存档"
-weight = 1
-[[menu.main]]
-url = "/index.xml"
-name = "RSS"
-weight = 4
+weight = 3
+# [[menu.main]]
+# url = "/index.xml"
+# name = "RSS"
+# weight = 4
