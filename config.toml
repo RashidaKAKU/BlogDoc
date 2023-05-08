@@ -26,7 +26,7 @@ enableGiscus = true
 # Microsoft Clarity (https://clarity.microsoft.com/) is a free user behavior recording and analytics tool
 clarity = "h0tc0oxd6b"
 
-googleSearchCode = "https://cse.google.com/cse.js?cx=f23090994f28149c4"
+googleSearchCode = "https://cse.google.com/cse.js?cx=f2f14932859484977"
 favicon = "https://rashida.cab:6901/uploads/2022/12/11/6395b6203c857.jpeg"
 enableReadingTime=true
 
