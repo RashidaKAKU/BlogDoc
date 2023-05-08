@@ -1,6 +1,6 @@
 ---
 title: "Win 重装系统"
-description: "这是一个重装系统的教程"
+description: "这是一个Win电脑重装系统的教程"
 tags: [Win,System]
 categories: "电脑教程"
 date: 2023-05-09T04:53:11+09:00
@@ -13,9 +13,9 @@ featured_image: "https://rashida.cab:6901/uploads/2023/05/09/645953c6e69cf.jpg"
 
 ## 准备：
 
-1. 一个大于 8G 的 U盘用于制作 pe 系统（注意备份，制作PE过程中会格式化 U盘）。
+1. 一个大于 8G 的 U盘用于制作 PE 系统（注意备份，制作PE过程中会格式化 U盘）。
 
-    [优启通](https://www.upe.net/)
+   [优启通](https://www.upe.net/)
 
 2. 系统镜像
 
@@ -42,8 +42,8 @@ featured_image: "https://rashida.cab:6901/uploads/2023/05/09/645953c6e69cf.jpg"
 
 
 
-1. 进入优启通启动菜单选择界面，一般都是选择 windows 10 PE，回车确认。
-2. 进 Win10 PE 系统后，运行桌面“DG 硬盘分区”工具。
+1. 进入优启通启动菜单选择界面，根据自身配置选择系统，以 Win 10 x64 为例。小键盘上下选择，回车确认。
+2. 进 PE 系统后，运行桌面“DG 硬盘分区”工具。
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/FQ2Ko5s8huB2zMEpMGiab4I8HunByuVtvIyicWjZ5zhBBnuymEfTFfLQ7GodEbUAxlsr0P6VvXkiatJmic9bslDcAg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -53,7 +53,7 @@ featured_image: "https://rashida.cab:6901/uploads/2023/05/09/645953c6e69cf.jpg"
 
 
 
-1. 运行桌面“EIX系统安装”工具。
+1. 运行桌面“EIX 系统安装”工具。
 2. 在工具窗口左边选择要恢复的镜像文件，右边选择要安装系统的目标分区，然后点击“一键恢复”。
 
 
