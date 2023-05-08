@@ -13,37 +13,37 @@ featured_image: "https://rashida.cab:6901/uploads/2023/05/09/645953c6e69cf.jpg"
 
 ## 准备：
 
-1. 一个大于8G的U盘用于制作pe系统（注意备份，制作PE过程中会格式化U盘）
+1. 一个大于 8G 的 U盘用于制作 pe 系统（注意备份，制作PE过程中会格式化 U盘）。
 
     [优启通](https://www.upe.net/)
 
 2. 系统镜像
 
-   [原版,MSDN](https://next.itellyou.cn/)
+   [原版,Itellyou](https://next.itellyou.cn/)
 
-   [Windsys精简](https://windsys.win/)
+   [精简,Windsys](https://windsys.win/)
 
-   [吻妻精简](https://www.iwin10.net/)
+   [精简,吻妻](https://www.iwin10.net/)
 
 ## PE制作
 
-1. 下载优启通，解压后启动软件
-2. 默认选U盘模式即可
-3. 确认即将制作的是你的U盘（拔出其余外接U盘、硬盘）
+1. 下载优启通，解压后启动软件。
+2. 默认选 U盘模式即可。
+3. 确认即将制作的是你的 U盘（拔出其余外接 U盘、硬盘）。
 4. 点全新制作即可开始制作了，如果你的优盘之前制作过优启通，这里点免格升级即可，数据不会丢失，直接升级到最新的优启通。
-5. 提示操作完成即可
+5. 提示操作完成即可。
 
 ## 重装系统
 
-1. 将下载的镜像移入制作好的U盘
-2. 请将电脑关机，将PE优盘插入到电脑后开机。然后在开机后的几秒内，当出现开机画面，按下快捷启动热键`F12`（不同机型请查看下面快捷键列表）进入启动项列表，然后在列表中通过方向键选择U盘所在选项，一般会带USB字样或者是U盘的品牌名（Sandisk、Toshiba之类），然后敲击回车可以进入U盘的PE菜单选择界面。
+1. 将下载的镜像移入制作好的 U盘。
+2. 请将电脑关机，将 PE 优盘插入到电脑后开机。然后在开机后的几秒内，当出现开机画面，按下快捷启动热键`F12`（不同机型请查看下面快捷键列表）进入启动项列表，然后在列表中通过方向键选择 U盘所在选项，一般会带 USB 字样或者是 U盘的品牌名（Sandisk、Toshiba之类），然后敲击回车可以进入 U盘的 PE 菜单选择界面。
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/FQ2Ko5s8huB2zMEpMGiab4I8HunByuVtv6Mnr5XepeeFcYP649ich28j9ZowxNA0MlGVnnm0N0o1LfM86GoicRyfA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
-1. 进入优启通启动菜单选择界面，一般都是选择从windows 10 PE，回车确认
-2. 进Win10 PE系统后，运行桌面“DG硬盘分区”工具
+1. 进入优启通启动菜单选择界面，一般都是选择 windows 10 PE，回车确认。
+2. 进 Win10 PE 系统后，运行桌面“DG 硬盘分区”工具。
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/FQ2Ko5s8huB2zMEpMGiab4I8HunByuVtvIyicWjZ5zhBBnuymEfTFfLQ7GodEbUAxlsr0P6VvXkiatJmic9bslDcAg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -53,8 +53,8 @@ featured_image: "https://rashida.cab:6901/uploads/2023/05/09/645953c6e69cf.jpg"
 
 
 
-1. 运行桌面“EIX系统安装”工具
-2. 在工具窗口左边选择要恢复的镜像文件，右边选择要安装系统的目标分区，然后点击“一键恢复”
+1. 运行桌面“EIX系统安装”工具。
+2. 在工具窗口左边选择要恢复的镜像文件，右边选择要安装系统的目标分区，然后点击“一键恢复”。
 
 
 
@@ -64,5 +64,6 @@ featured_image: "https://rashida.cab:6901/uploads/2023/05/09/645953c6e69cf.jpg"
 
 
 
-1. 在弹出窗口中去掉“驱动调用”勾选，另外的选项保持默认即可“确认”执行
-2. 等待系统安装完成
+1. 在弹出窗口中去掉“驱动调用”勾选，另外的选项保持默认即可“确认”执行。
+2. 等待系统安装完成。
+3. 重启电脑，进入系统（或创建用户界面）。
