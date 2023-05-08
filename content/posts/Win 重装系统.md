@@ -1,6 +1,6 @@
 ---
-title: "New Content"
-description: ""
+title: "Win 重装系统"
+description: "这是一个重装系统的教程"
 tags: ["Win""System"]
 categories: "电脑教程"
 date: 2023-05-09T04:53:11+09:00
