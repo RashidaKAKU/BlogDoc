@@ -21,7 +21,7 @@ UI为 tkinter
 
 B站视频展示<https://www.bilibili.com/video/av442548077/>
 
-<iframe src="//player.bilibili.com/player.html?aid=442548077&bvid=BV1bL411e7e9&cid=1096713208&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 
 ## 常见问题
 
