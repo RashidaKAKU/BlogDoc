@@ -40,29 +40,17 @@ featured_image: "https://rashida.cab:6901/uploads/2023/05/09/645953c6e69cf.jpg"
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/FQ2Ko5s8huB2zMEpMGiab4I8HunByuVtv6Mnr5XepeeFcYP649ich28j9ZowxNA0MlGVnnm0N0o1LfM86GoicRyfA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-
-
 1. 进入优启通启动菜单选择界面，根据自身配置选择系统，以 Win 10 x64 为例。小键盘上下选择，回车确认。
 2. 进 PE 系统后，运行桌面“DG 硬盘分区”工具。
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/FQ2Ko5s8huB2zMEpMGiab4I8HunByuVtvIyicWjZ5zhBBnuymEfTFfLQ7GodEbUAxlsr0P6VvXkiatJmic9bslDcAg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-
-
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/FQ2Ko5s8huB2zMEpMGiab4I8HunByuVtvnskTwEqNr5VjvqXxqZH6G2yH3caX5GJe3s5DeeLhlFFU5TJtxFXFbA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-
 
 1. 运行桌面“EIX 系统安装”工具。
 2. 在工具窗口左边选择要恢复的镜像文件，右边选择要安装系统的目标分区，然后点击“一键恢复”。
 
-
-
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/FQ2Ko5s8huB2zMEpMGiab4I8HunByuVtv4KMvF0EuDAsict7Y7BDIbzYx5oVGiciceMaGeib0076DhicMGBQ9qltgeKw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-
-
-
 
 1. 在弹出窗口中去掉“驱动调用”勾选，另外的选项保持默认即可“确认”执行。
 2. 等待系统安装完成。
