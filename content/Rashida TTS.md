@@ -14,15 +14,15 @@ featured_image: "https://rashida.cab:6901/uploads/2023/05/09/645953c6e69cf.jpg"
 
 ## 欢迎使用
 
-> 注意：TXT编码格式需为UTF8
+> 注意：TXT 编码格式需为 UTF8
 
-基于PYTTSX3的文本转语音工具
-UI为 tkinter
+基于 PYTTSX3 的文本转语音工具
+UI 为 TKINTER
 测试 43000 字符没有问题
 
 ![界面展示](https://rashida.cab:6901/uploads/2023/05/09/645a2e7a734a6.png)
 
-B站视频展示<https://www.bilibili.com/video/av442548077/>
+B 站视频展示<https://www.bilibili.com/video/av442548077/>
 
 
 
@@ -30,7 +30,11 @@ B站视频展示<https://www.bilibili.com/video/av442548077/>
 
 ### .py 文件无法正常运行
 
-一般是由于缺少运行库，可以尝试使用 `pip install -r requirements.txt` 解决
+一般是由于缺少运行库，可以尝试使用 PIP 解决
+
+```python
+pip install -r requirements.txt
+```
 
 ### Linux 系统缺少 espeak
 
