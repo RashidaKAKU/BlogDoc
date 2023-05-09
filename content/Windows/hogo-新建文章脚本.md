@@ -1,7 +1,7 @@
 ---
 title: "Hogo 新建文章脚本"
 description: "利用 Python 新建 hugo 文章到指定文件夹"
-tags: ['Python', 'Hugo']
+tags: [Python,Hugo]
 categories: "脚本"
 date: "2023-05-09T21:49:59+09:00"
 featured_image: "https://rashida.cab:6901/uploads/2023/05/09/645953c6e69cf.jpg.
