@@ -3,7 +3,7 @@ title: "Aria2 下载器部署"
 description: "Aria2 下载器 群晖Docker部署，带 UI 界面"
 tags: [群晖,Docker,下载]
 categories: "Docler"
-date: 2023-05-09T04:53:11+09:00
+date: 2023-05-15T05:53:11+09:00
 featured_image: "https://rashida.cab:6901/uploads/2023/05/15/6461c3f92bd88.jpeg"
 ---
 
