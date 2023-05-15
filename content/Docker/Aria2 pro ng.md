@@ -1,7 +1,7 @@
 ---
 title: "Aria2 下载器部署"
 description: "Aria2 下载器 群晖Docker部署，带 UI 界面"
-tags: [群晖,Docker,下载]
+tags: [群晖,Docker,下载,教程]
 categories: "Docler"
 date: 2023-05-15T05:53:11+09:00
 featured_image: "https://rashida.cab:6901/uploads/2023/05/15/6461c3f92bd88.jpeg"
@@ -28,6 +28,7 @@ docker run -d \
 
 # AriaNG Dockor Cli 部署
 可以修改用户端口
+可以在 Docker 面板中设置关联容器 Aria2
 
 ```
 docker run -d \
@@ -37,3 +38,13 @@ docker run -d \
     -p 6880:6880 \
     p3terx/ariang
 ```
+
+# 群晖使用 Docker Cli 方法
+1. 打开群晖控制面板
+2. 找到任务计划
+3. 新增计划任务-用户脚本
+4. 随意填写任务名称
+5. 用户角色选 Root
+6. 在脚本处粘贴 Docker Cli 并保存
+7. 运行脚本后删除
+8. 等待部署完成
