@@ -4,7 +4,7 @@ description: "这是一个Win电脑重装系统的教程"
 tags: [Win,System]
 categories: "电脑教程"
 date: 2023-05-09T04:53:11+09:00
-featured_image: "https://rashida.cab:6901/uploads/2023/05/09/645953c6e69cf.jpg"
+featured_image: "https://rashida.cab:6901/uploads/2023/05/15/6461c042a1f35.jpeg"
 ---
 
 # 重装系统
