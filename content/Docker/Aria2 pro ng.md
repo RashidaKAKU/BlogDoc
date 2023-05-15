@@ -1,0 +1,39 @@
+---
+title: "Aria2 下载器部署"
+description: "Aria2 下载器 群晖Docker部署，带 UI 界面"
+tags: [群晖,Docker,下载]
+categories: "Docler"
+date: 2023-05-09T04:53:11+09:00
+featured_image: "https://rashida.cab:6901/uploads/2023/05/15/6461c3f92bd88.jpeg"
+---
+
+# Aria2 Pro Dockor Cli 部署
+需要修改用户路径，其余可不修改。
+
+```
+docker run -d \
+    --name Aria2 \
+    --restart unless-stopped \
+    --log-opt max-size=1m \
+    --network host \
+    -e PUID=$UID \
+    -e PGID=$GID \
+    -e RPC_SECRET=<TOKEN> \
+    -e RPC_PORT=6800 \
+    -e LISTEN_PORT=6888 \
+    -v $PWD/aria2-config:/config \
+    -v $PWD/aria2-downloads:/downloads \
+    p3terx/aria2-pro
+```
+
+# AriaNG Dockor Cli 部署
+可以修改用户端口
+
+```
+docker run -d \
+    --name AriaNG \
+    --restart unless-stopped \
+    --log-opt max-size=1m \
+    -p 6880:6880 \
+    p3terx/ariang
+```
