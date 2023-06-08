@@ -40,6 +40,11 @@ docker run -d \
 ```
 
 # 群晖使用 Docker Cli 方法
+
+
+
+<audio src="http://192.168.50.5:8091/api/raw/volume1/docker/jmalcloud/Rashida/Blog/%E9%9F%B3%E9%A2%91/Docker/%E7%BE%A4%E6%99%96cli%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.wav?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoxLCJsb2NhbGUiOiJ6aC1jbiIsInZpZXdNb2RlIjoibW9zYWljIiwic2luZ2xlQ2xpY2siOmZhbHNlLCJwZXJtIjp7ImFkbWluIjp0cnVlLCJleGVjdXRlIjp0cnVlLCJjcmVhdGUiOnRydWUsInJlbmFtZSI6dHJ1ZSwibW9kaWZ5Ijp0cnVlLCJkZWxldGUiOnRydWUsInNoYXJlIjp0cnVlLCJkb3dubG9hZCI6dHJ1ZX0sImNvbW1hbmRzIjpbXSwibG9ja1Bhc3N3b3JkIjpmYWxzZSwiaGlkZURvdGZpbGVzIjpmYWxzZSwiZGF0ZUZvcm1hdCI6ZmFsc2V9LCJpc3MiOiJGaWxlIEJyb3dzZXIiLCJleHAiOjE2ODYyMzk3NzAsImlhdCI6MTY4NjIzMjU3MH0.vo23L3z9RZ0XrqF9HMhbSiJzjcSb_4dQFNq_HemNXrI&inline=true"></audio>
+
 1. 打开群晖控制面板
 2. 找到任务计划
 3. 新增计划任务-用户脚本
