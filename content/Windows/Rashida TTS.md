@@ -4,7 +4,7 @@ description: "基于Python第三方库pytts3的文字转语音工具"
 tags: [Win,TTS,Python]
 categories: "电脑软件"
 date: 2023-05-09T20:24:05+09:00
-featured_image: "https://rashida.cab:6901/uploads/2023/05/15/6461c08751973.jpeg"
+featured_image: "https://github.com/RashidaKAKU/BingW/blob/main/2023/6/wallpaper_20230625.jpg"
 ---
 
 
