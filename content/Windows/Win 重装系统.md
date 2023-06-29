@@ -4,7 +4,7 @@ description: "这是一个Win电脑重装系统的教程"
 tags: [Win,System]
 categories: "电脑教程"
 date: 2023-05-09T04:53:11+09:00
-featured_image: "https://github.com/RashidaKAKU/BingW/blob/main/2023/5/wallpaper_20230523.jpg"
+featured_image: "https://photo-1307600264.cos.ap-hongkong.myqcloud.com/Bing/2023-05/wallpaper_20230511.jpg"
 ---
 
 # 重装系统

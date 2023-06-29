@@ -4,7 +4,7 @@ description: "利用 Python 新建文章到指定文件夹"
 tags: [Win,Python,Hugo]
 categories: "脚本"
 date: 2023-05-09T04:53:11+09:00
-featured_image: "https://github.com/RashidaKAKU/BingW/blob/main/2023/6/wallpaper_20230607.jpg"
+featured_image: "https://photo-1307600264.cos.ap-hongkong.myqcloud.com/Bing/2023-06/wallpaper_20230607.jpg"
 ---
 
 > 利用 Python 新建 Hugo 文章到指定文件夹

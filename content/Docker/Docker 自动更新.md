@@ -4,7 +4,7 @@ description: "Watchtower - 自动更新 Docker 镜像与容器"
 tags: [群晖，Docker, 教程]
 categories: "Docker"
 date: 2023-06-29T05:53:11+09:00
-featured_image: "https://github.com/RashidaKAKU/BingW/blob/main/2023/6/wallpaper_20230601.jpg"
+featured_image: "https://photo-1307600264.cos.ap-hongkong.myqcloud.com/Bing/2023-06/wallpaper_20230628.jpg"
 ---
 
 ！！！更新 Docker 可能会出现未知问题，请谨慎更新！！！
